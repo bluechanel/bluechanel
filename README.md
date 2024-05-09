@@ -1,5 +1,7 @@
 # Hi 👋, I'm Wiley Zhang
+
 你好，我是Wiley，目前在西安这座古老而又现代的城市里，试图用代码和思考来探索人生的无限可能
+
 我热爱阅读，旅行，电影🚀🌏🎬📚
 ## 🚀 Languages and Tools I Use
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
@@ -19,5 +21,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluechanel&show_icons=true&locale=en&layout=compact" alt="bluechanel" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bluechanel&show_icons=true&locale=en" alt="bluechanel" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechanel&" alt="bluechanel" />
+</p>
